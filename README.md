@@ -4,15 +4,9 @@
 
 <h1 align="center">Hey, I'm Carmen 👩‍💻</h1>
 
-<pre><code class="language-javascript">
-// Tetris life logic
-while(!jobFound) {
-  apply();
-  learn();
-  repeat();
-  drinkCoffee();
-}
-</code></pre>
+<p align="center">
+  <img src="./code_readme.png" alt="Code Banner" width="300" />
+</p>
 
 <hr />
 <h2>🏆 GitHub Trophies</h2>
