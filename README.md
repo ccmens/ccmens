@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="Cool Coding Banner"/>
-</p>
 
-<h1 align="center">Hey, I'm Carmen 👩‍💻</h1>
+<h1 align="center" style="font-size: 3em; margin-bottom: 0.2em;">
+  👋 Hey, I'm Carmen 👩‍💻
+</h1>
 
 <p align="center">
-  <img src="./code_readme.png" alt="Code Banner" width="300" />
+  <img src="./code_banner_2.png" alt="Code Banner" width="700" height="500" />
 </p>
 
 <hr />
