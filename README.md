@@ -70,7 +70,7 @@ while(!jobFound) {
 <h2>📈 LeetCode Progress</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/ccmens?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/carmenshun0629?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" />
 </p>
 
 <hr />
