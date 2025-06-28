@@ -1,0 +1,19 @@
+name: Update Tetris Profile README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Updated at night
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Commit README update
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: refresh Tetris style README [skip ci]" || echo "No changes to commit"
+          git push
