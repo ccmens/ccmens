@@ -10,10 +10,17 @@
   and mastering the dark arts of <code>Full-Stack Dev</code>. <br/>
 </p> 
 
-<div align="center" style="line-height: 1;">
-  <h3 style="margin: 0;">😌 My life's loop:</h3>
-  <img src="./code_banner_2.png" alt="Code Banner" width="600" style="border-radius: 1px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
-</div>
+<h3 align="center">😌 My life's loop:</h3>
+  <p align="center">
+    <img
+      src="./code_banner_2.png"
+      alt="Code Banner"
+      width="541"
+      margin-top: -10px;
+      padding: 0;
+      border: none;
+    />
+  </p>
 
 
 <h2>🏆 GitHub Trophies</h2>
