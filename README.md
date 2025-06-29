@@ -53,7 +53,7 @@
     <tr>
       <td>Customer Churn Analysis</td>
       <td>Predict customer churn with ML</td>
-      <td><a href="https://github.com/ccmens/customer-churn-analysis" style="color:#00d4ff;">Repo</a></td>
+      <td><a href="https://github.com/ccmens/TelecomChurn" style="color:#00d4ff;">Repo</a></td>
     </tr>
     <tr>
       <td>Portfolio Website</td>
@@ -63,12 +63,12 @@
     <tr>
       <td>ML Job Analyzing</td>
       <td>Analyzing machine learning job postings using Python and databases</td>
-      <td><a href="https://github.com/ccmens/ml-job-analyzing" style="color:#00d4ff;">Repo</a></td>
+      <td><a href="https://github.com/ccmens/MLJobPostingUS" style="color:#00d4ff;">Repo</a></td>
     </tr>
     <tr>
       <td>Capstone Project</td>
       <td>Inventory Management System using React and MongoDB</td>
-      <td><a href="https://github.com/ccmens/capstone-inventory" style="color:#00d4ff;">Repo</a></td>
+      <td><a href="https://github.com/ccmens/capstone" style="color:#00d4ff;">Repo</a></td>
     </tr>
   </tbody>
 </table>
