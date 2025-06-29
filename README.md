@@ -1,13 +1,24 @@
-
-<h1 align="center" style="font-size: 3em; margin-bottom: 0.2em;">
-  👋 Hey, I'm Carmen 👩‍💻
-</h1>
+<h1 align="center">👩‍💻 Carmen | Code Sorceress & Data Whisperer 🪄✨</h1> 
 
 <p align="center">
-  <img src="./code_banner_2.png" alt="Code Banner" width="700" height="500" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" alt="Coding Magic" width="250" style="border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.2);" />
 </p>
 
-<hr />
+<p align="center" style="font-size: 1.3rem; font-weight: 600; color: #222; max-width: 600px; margin: auto;">
+  Turning coffee ☕️ into clean code and data gold.<br/>
+  Currently casting spells in <code>Python</code>, conjuring insights with <code>SQL</code>,<br/>
+  and mastering the dark arts of <code>Full-Stack Dev</code>. <br/>
+</p> 
+
+<div align="center">
+
+### 😌 My life's loop:
+
+<img src="./code_banner_2.png" alt="Code Banner" width="600" style="border-radius: 15px; box-shadow: 0 8px 20px rgba(0,0,0,0.2);" />
+
+</div>
+
+
 <h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
@@ -68,14 +79,20 @@
 
 <hr />
 
-
 <h2>📫 Contact Me</h2>
 
 <p align="center">
-  <a href="mailto:carmenshun0629@gmail.com">📧 Email Me</a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jiawen-shen-9b7283221/">🔗 LinkedIn</a>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="Cool Coding Banner"/>
+</p>
+
+<p align="center" style="font-size: 1.2em;">
+  <a href="mailto:carmenshun0629@gmail.com" style="text-decoration:none; margin-right: 30px;">
+    📬 Shoot me an email — I promise I don’t bite!
+  </a> |
+  <a href="https://www.linkedin.com/in/jiawen-shen-9b7283221/" style="text-decoration:none; margin-left: 30px;">
+    🤝 Let’s connect on LinkedIn — I’m friendly, I swear!
+  </a>
 </p>
 
 <hr />
-
 <p align="center"><em>“Keep calm and analyze data. 🚀📊”</em></p>
