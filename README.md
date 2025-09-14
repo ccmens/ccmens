@@ -23,10 +23,12 @@
   </p>
 
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>🏆 Codewars Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ccmens&amp;theme=dark&amp;no-frame=true&amp;no-bg=true" alt="Trophies" />
+  <a href="https://github.com/ignacio-cuadra/github-readme-codewars">
+    <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=carmen0629" alt="Github Readme Codewars"/>
+  </a>
 </p>
 
 <hr />
